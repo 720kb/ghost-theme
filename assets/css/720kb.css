@@ -16,6 +16,10 @@ body {
 a {
   color:#61AAFF;
 }
+/*Blog logo*/
+.blog-logo img{
+  height:auto;
+}
 /*Blog cover*/
 .no-cover.main-header {
   background: #F6F9FA;

@@ -52,7 +52,7 @@ a {
 .post-template .post-title {
   color: #61AAFF;
 }
-.post-content img, .post-content .full-img {
+.post-content img, .post-content .full-img, .post-content img.full-img {
   width: 100%;
   margin: 0 auto;
 }

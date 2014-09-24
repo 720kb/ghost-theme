@@ -52,6 +52,10 @@ a {
 .post-template .post-title {
   color: #61AAFF;
 }
+.post-content .full-img {
+  width: 100%;
+  margin: 0 auto;
+}
 /*Tag template*/
 .tag-template .page-title,
 .tag-template .page-description {
